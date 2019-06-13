@@ -10,3 +10,5 @@ great
 # wed
 
 wed is a script that will sync a local directory to an S3 bucket and optionally configure route 53
+
+more fun
